@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandonNumberGenerators", "RandonNumberGenerators\RandonNumberGenerators.csproj", "{ED139E7A-C3C1-4974-A2BE-0BBA135ECC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceGame", "DiceGame\DiceGame.csproj", "{A6CF155B-60A2-440A-B3E5-EB666757502E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED139E7A-C3C1-4974-A2BE-0BBA135ECC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED139E7A-C3C1-4974-A2BE-0BBA135ECC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED139E7A-C3C1-4974-A2BE-0BBA135ECC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED139E7A-C3C1-4974-A2BE-0BBA135ECC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CF155B-60A2-440A-B3E5-EB666757502E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CF155B-60A2-440A-B3E5-EB666757502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CF155B-60A2-440A-B3E5-EB666757502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CF155B-60A2-440A-B3E5-EB666757502E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDD5D09-89EF-46C4-B1AE-45CEA8721622}
+	EndGlobalSection
+EndGlobal
